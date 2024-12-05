@@ -1,0 +1,14 @@
+/Users/mrhumidum/Documents/Projects/labs/Lab6/bin/Debug/net8.0/Lab6
+/Users/mrhumidum/Documents/Projects/labs/Lab6/bin/Debug/net8.0/Lab6.deps.json
+/Users/mrhumidum/Documents/Projects/labs/Lab6/bin/Debug/net8.0/Lab6.runtimeconfig.json
+/Users/mrhumidum/Documents/Projects/labs/Lab6/bin/Debug/net8.0/Lab6.dll
+/Users/mrhumidum/Documents/Projects/labs/Lab6/bin/Debug/net8.0/Lab6.pdb
+/Users/mrhumidum/Documents/Projects/labs/Lab6/obj/Debug/net8.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrhumidum/Documents/Projects/labs/Lab6/obj/Debug/net8.0/Lab6.AssemblyInfoInputs.cache
+/Users/mrhumidum/Documents/Projects/labs/Lab6/obj/Debug/net8.0/Lab6.AssemblyInfo.cs
+/Users/mrhumidum/Documents/Projects/labs/Lab6/obj/Debug/net8.0/Lab6.csproj.CoreCompileInputs.cache
+/Users/mrhumidum/Documents/Projects/labs/Lab6/obj/Debug/net8.0/Lab6.dll
+/Users/mrhumidum/Documents/Projects/labs/Lab6/obj/Debug/net8.0/refint/Lab6.dll
+/Users/mrhumidum/Documents/Projects/labs/Lab6/obj/Debug/net8.0/Lab6.pdb
+/Users/mrhumidum/Documents/Projects/labs/Lab6/obj/Debug/net8.0/Lab6.genruntimeconfig.cache
+/Users/mrhumidum/Documents/Projects/labs/Lab6/obj/Debug/net8.0/ref/Lab6.dll
